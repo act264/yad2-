@@ -9,7 +9,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class AmazonTests {
+public class Yad2Tests {
 
 	private WebDriver driver;
 

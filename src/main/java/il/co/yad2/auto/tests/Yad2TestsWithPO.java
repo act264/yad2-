@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import il.co.jb.amazon.auto.infra.pages.AmazonLandingPage;
 import il.co.jb.amazon.auto.infra.pages.AmazonSearchResultsPage;
 
-public class AmazonTestsWithPO {
+public class Yad2TestsWithPO {
 
 	private WebDriver driver;
 
