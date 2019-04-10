@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64416" started-at="2019-04-08T21:10:15Z" finished-at="2019-04-08T21:11:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64416" started-at="2019-04-08T21:10:15Z" finished-at="2019-04-08T21:11:20Z">
+      <class name="il.co.yad2.auto.tests.AmazonTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:il.co.yad2.auto.tests.AmazonTests@523884b2]" name="beforeTest" is-config="true" duration-ms="13270" started-at="2019-04-08T21:10:15Z" finished-at="2019-04-08T21:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="_002_loginToYad2()[pri:0, instance:il.co.yad2.auto.tests.AmazonTests@523884b2]" name="_002_loginToYad2" duration-ms="49685" started-at="2019-04-08T21:10:29Z" finished-at="2019-04-08T21:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _002_loginToYad2 -->
+      </class> <!-- il.co.yad2.auto.tests.AmazonTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
